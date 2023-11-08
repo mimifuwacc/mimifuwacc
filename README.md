@@ -1,21 +1,3 @@
-### <div align="center">I'm Mimi, a undergraduate student of UEC 🧑‍🎓 and trainee enginer 🧑‍💻</div>  
-  
-
-- 🔭 I’m currently developing apps for U☆PoC  
-  
-
-- 🌱 I’m currently learning Next.js and Proxmox  
-  
-
-- ❓ Ask me about anything related to HTML / CSS and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
