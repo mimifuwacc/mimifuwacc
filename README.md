@@ -6,7 +6,7 @@ Undergraduate student of University of Electronic Communication
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mimi1008_tech) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mimi_chan_uec) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mimi_chan_uec) 
 
 ## $ GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=mimi-chan-uec&theme=nord&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mimi-chan-uec&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mimi-chan-uec&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimi-chan-uec&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
