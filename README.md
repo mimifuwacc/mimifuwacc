@@ -9,4 +9,4 @@ Undergraduate student of University of Electronic Communication (B1)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimi-chan-tech&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## ❯ Trophies
-![](https://github-profile-trophy.vercel.app/?username=mimi-chan-uec&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mimi-chan-tech&theme=nord&no-frame=true&no-bg=false&margin-w=4)
