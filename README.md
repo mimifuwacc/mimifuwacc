@@ -68,7 +68,6 @@ Undergraduate student of University of Electronic Communication (B1)
 
 ### ❯ GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mimi-chan-tech&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mimi-chan-tech&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimi-chan-tech&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ❯ Trophies
