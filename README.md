@@ -1,4 +1,4 @@
-## ❯ About Me
+### ❯ About Me
 Undergraduate student of University of Electronic Communication (B1)
 
 <div align="center">
@@ -66,12 +66,10 @@ Undergraduate student of University of Electronic Communication (B1)
   <img width="12" />
 </div>
 
-<img src="https://raw.githubusercontent.com/mimi-chan-tech/mimi-chan-tech/output/snake.svg" alt="Snake animation" />
-
-## ❯ GitHub Stats
+### ❯ GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mimi-chan-tech&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mimi-chan-tech&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimi-chan-tech&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## ❯ Trophies
+### ❯ Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mimi-chan-tech&theme=nord&no-frame=true&no-bg=false&margin-w=4)
