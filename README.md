@@ -1,8 +1,8 @@
-### $ About Me
+## $ About Me
 Undergraduate student of University of Electronic Communication (B1)
 
 
-### $ Skills
+## $ Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -64,11 +64,11 @@ Undergraduate student of University of Electronic Communication (B1)
   <img width="12" />
 </div>
 
-### $ GitHub Stats
+## $ GitHub Stats
 <div style="display: flex">
   <img style="height: 175px" src="https://github-readme-streak-stats.herokuapp.com/?user=mimi-chan-tech&theme=nord&hide_border=true"/>
   <img style="height: 175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimi-chan-tech&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
-### $ Trophies
+## $ Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mimi-chan-tech&theme=nord&no-frame=true&no-bg=false&margin-w=4)
