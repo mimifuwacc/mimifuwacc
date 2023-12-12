@@ -16,16 +16,22 @@ Undergraduate student of University of Electronic Communication (B1)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
+<div align="center">
+</div>
   <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
+<div align="center">
+</div>
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo"  />
@@ -38,6 +44,8 @@ Undergraduate student of University of Electronic Communication (B1)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
+<div align="center">
+</div>
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
@@ -46,8 +54,13 @@ Undergraduate student of University of Electronic Communication (B1)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
+<div align="center">
+</div>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
@@ -55,13 +68,10 @@ Undergraduate student of University of Electronic Communication (B1)
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
+  <img width="12" />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Mimi1008-tech/Mimi1008-tech/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mimi1008-tech/mimi-chan-tech/output/snake.svg" alt="Snake animation" />
 
 ###
 
