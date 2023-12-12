@@ -1,6 +1,8 @@
 ### $ About Me
 Undergraduate student of University of Electronic Communication (B1)
 
+
+### $ Skills
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
