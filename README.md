@@ -1,6 +1,9 @@
 ## $ About Me
-Undergraduate student of University of Electronic Communication (B1)
+Undergraduate at the University of Electro-Communications (B1), passionate about engineering.
 
+Actively involved in product development with <a href="https://www.team411.jp/">team411</a>.
+
+Excited to collaborate and innovate in the tech space!
 
 ## $ Skills
 <div align="center">
