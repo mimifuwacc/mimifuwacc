@@ -16,8 +16,6 @@ Undergraduate student of University of Electronic Communication (B1)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
   <img width="12" />
-</div>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
@@ -48,8 +46,6 @@ Undergraduate student of University of Electronic Communication (B1)
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="30" alt="vim logo"  />
   <img width="12" />
-</div>
-<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
