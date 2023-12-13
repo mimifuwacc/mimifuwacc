@@ -68,7 +68,7 @@ Excited to collaborate and innovate in the tech space!
 </div>
 
 ## $ GitHub Stats
-<div style="display: flex; margin:0 auto">
+<div style="display: flex;" align="center">
   <img style="height: 175px" src="https://github-readme-streak-stats.herokuapp.com/?user=mimi-chan-tech&theme=nord&hide_border=true"/>
   <img style="height: 175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimi-chan-tech&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
