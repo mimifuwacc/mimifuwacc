@@ -75,6 +75,5 @@ Excited to collaborate and innovate in the tech space!
 
 ## $ Trophies
 <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=mimi-chan-tech&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=mimi-chan-tech&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
 </div>
