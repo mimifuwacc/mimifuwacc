@@ -69,11 +69,11 @@ Excited to collaborate and innovate in the tech space!
 
 ## $ GitHub Stats
 <div style="display: flex;" align="center">
-  <img style="height: 175px" src="https://github-readme-streak-stats.herokuapp.com/?user=mimi-chan-tech&theme=nord&hide_border=true"/>
-  <img style="height: 175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimi-chan-tech&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img style="height: 175px" src="https://github-readme-streak-stats.herokuapp.com/?user=mimifuwa&theme=nord&hide_border=true"/>
+  <img style="height: 175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimifuwa&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ## $ Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mimi-chan-tech&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mimifuwa&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
 </div>
