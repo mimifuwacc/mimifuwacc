@@ -1,5 +1,5 @@
 ## $ About Me
-Undergraduate at the University of Electro-Communications (B1), passionate about engineering.
+Undergraduate at the University of Electro-Communications (B2), passionate about engineering.
 
 Actively involved in product development with <a href="https://www.team411.jp/">team411</a>.
 
