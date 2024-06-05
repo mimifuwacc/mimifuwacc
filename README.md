@@ -1,9 +1,6 @@
 ## $ About Me
-Undergraduate at the University of Electro-Communications (B2), passionate about engineering.
-
-Actively involved in product development with <a href="https://www.team411.jp/">team411</a>.
-
-Excited to collaborate and innovate in the tech space!
+Hi! I'm Mimi.
+I'm studying Computer Science at UEC (University of Electro Communication).
 
 ## $ Skills
 <div align="center">
