@@ -1,5 +1,5 @@
 ## $ About Me
-Hi! I'm Mimi.
+Hi! I'm mimi.
 I'm studying Computer Science at UEC (University of Electro Communication).
 
 ## $ Skills
@@ -66,11 +66,11 @@ I'm studying Computer Science at UEC (University of Electro Communication).
 
 ## $ GitHub Stats
 <div style="display: flex;" align="center">
-  <img style="height: 175px" src="https://github-readme-streak-stats.herokuapp.com/?user=mimifuwa&theme=nord&hide_border=true"/>
-  <img style="height: 175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimifuwa&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img style="height: 175px" src="https://github-readme-streak-stats.herokuapp.com/?user=mimifuwacc&theme=nord&hide_border=true"/>
+  <img style="height: 175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimifuwacc&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ## $ Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mimifuwa&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mimifuwacc&theme=nord&no-frame=true&no-bg=false&margin-w=4"/>
 </div>
